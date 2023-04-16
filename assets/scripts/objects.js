@@ -34,6 +34,7 @@ person.isAdmin = true; // 객체 추가법
 
 const keyName = 'first Name';
 
+
 console.log(person[keyName]);// 이렇게 하면 따옴표가 필요 없음
 // keyname에 속해있는 프로퍼티의 값을 찾고 있음
 
